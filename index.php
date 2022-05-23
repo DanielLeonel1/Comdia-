@@ -94,35 +94,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div class="card bg-dark border-0 mb-4">
-                        <div class="card-body p-5">
-                            <h3><span class="badge badge-secondary bg-gold text-dark mb-2">Enterprise</span></h3>
-                            <p class="lead mb-4 text-light">Our free trial gives you full access to all features of the
-                                plan for 7 days.</p>
-                            <h2 class="mb-0 text-light">$59/month</h2>
-                            <p class="lead mb-4 text-muted">plus $8 for every employee</p>
-
-                            <p class="lead font-weight-bold text-light">Top features</p>
-                            <ul class="list-unstyled mb-5">
-                                <li class="mb-2 text-muted"><i
-                                        class="icon ion-md-checkmark-circle lead text-gold mr-2"></i> Professionally
-                                    designed
-                                    & built website</li>
-                                <li class="mb-2 text-muted"><i
-                                        class="icon ion-md-checkmark-circle lead text-gold mr-2"></i> Weekly website
-                                    updates</li>
-                                <li class="mb-3 text-muted"><i
-                                        class="icon ion-md-checkmark-circle lead text-gold mr-2"></i> Social media
-                                    management</li>
-                                <li class="text-gold">See all features <i
-                                        class="icon ion-md-arrow-forward align-middle ml-2"></i></li>
-                            </ul>
-                            <a href="#" class="btn btn-gold">Start your free trial</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+               <div><h1>aqui habia algo</h1></div>
     </section>
 
     <footer class="bg-dark text-light py-4">
