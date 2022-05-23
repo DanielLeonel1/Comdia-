@@ -107,7 +107,7 @@
                     </ul>
                 </div>
                 <div class="col-md-6 text-sm-right">
-                    <small>Created by <a href="https://themesbootstrap.com.mx/index.html">Themes Bootstrap</a></small>
+                    <small>Created by <a href="https://themesbootstrap.com.mx/index.html">holo buenas</a></small>
                 </div>
             </div>
         </div>
